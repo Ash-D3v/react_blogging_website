@@ -21,7 +21,7 @@ Welcome to our awesome Blog App! 🎉 This project is built using React and Appw
 ## 🏁 Getting Started
 
 1. Clone the repository
-   git clone https://github.com/Ashutoshdas-dev/react_blogging_website.git
+   git clone https://github.com/Ash-D3v/react_blogging_website.git
 
 3. Install dependencies
    cd blog-app
@@ -47,7 +47,7 @@ Welcome to our awesome Blog App! 🎉 This project is built using React and Appw
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Ashutoshdas-dev/react_blogging_website.git).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Ash-D3v/react_blogging_website.git).
 
 ## 📜 License
 
